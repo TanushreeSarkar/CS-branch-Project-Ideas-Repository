@@ -2,7 +2,10 @@
 
 ![GitHub stars](https://img.shields.io/github/stars/TanushreeSarkar/Non-Cliche-CS-Project-Ideas-Repository?style=social) ![GitHub forks](https://img.shields.io/github/forks/TanushreeSarkar/Non-Cliche-CS-Project-Ideas-Repository?style=social) ![License](https://img.shields.io/github/license/TanushreeSarkar/Non-Cliche-CS-Project-Ideas-Repository?color=blue)
 
-Welcome to the **Non-Cliché CS Project Ideas Repository**! 🎉 Tired of seeing the same old to-do apps and basic chatbots? This repo brings you **fresh, innovative, and job-ready** project ideas across various computer science branches. Each project is carefully crafted to showcase cutting-edge skills that stand out to employers in 2025. 💼 From AI to DevOps, we’ve got **5+ unique ideas per branch** that avoid the usual clichés! 🖥️
+Welcome to the **Non-Cliché CS Project Ideas Repository**! 🎉 Tired of seeing the same old to-do apps and basic chatbots? This repo brings you **fresh, innovative, and job-ready** project ideas across various computer science branches. Each project is carefully crafted to showcase cutting-edge skills that stand out to employers in 2025. 
+💼 From AI to DevOps, we’ve got **5+ unique ideas per branch** that avoid the usual clichés! 
+
+## Best Part: You can use these detailed ideas and can easy make these projects using AI by copy pasting these detailed ideas. Lets build something together🖥️
 
 ## 📋 Table of Contents
 
