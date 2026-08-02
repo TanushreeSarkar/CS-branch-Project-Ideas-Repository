@@ -1,4 +1,4 @@
-# ☁️ Unique Cloud Computing Project Ideas (2025–2026 Trends)
+# ☁️ Cloud Computing Project Ideas (2025–2026 Trends)
 
 Beyond the usual serverless blog / file storage app / IoT pipeline ideas — these map to what cloud teams are actually hiring for: **FinOps, multi-cloud, GitOps, chaos engineering, and cloud-native data platforms**. 🌐
 
